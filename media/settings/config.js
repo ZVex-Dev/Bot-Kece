@@ -12,7 +12,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 // contoh ['1','2','3']
 // ['1','2','3','4']
 global.botname = "- ZVex-Dev bot -"
-global.ownerNumber = [`${global.owner}`,'6283894131246'] // no owner yang dapat mengakses all fitur
+global.ownerNumber = [`${global.owner}`,'6283894131246','6287718203240'] // no owner yang dapat mengakses all fitur
 global.email = 'zayronvex22@gmail.com' // kosongkan jika tidak punya
 global.web = '.com' // kosongkan jika tidak punya
 global.location = 'Banten' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
