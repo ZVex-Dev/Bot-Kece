@@ -5,7 +5,7 @@ pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs-lts
 pkg install ffmpeg -y
-git clone https://github.com/xziyyy/clairity.git
+git clone https://github.com/ZVex-Dev/Bot-Kece.git
 cd clairity
 npm install
 ```
