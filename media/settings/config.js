@@ -18,8 +18,8 @@ global.web = '.com' // kosongkan jika tidak punya
 global.location = 'Banten' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
 global.packname = 'bot' // wm yg ada di sticker
 global.author = 'dibuat oleh ZVex' // wm yg ada di sticker
-global.imgUrl = "https://files.catbox.moe/8cmckf.jpg" // ubah menggunakan !setimgbot
-global.menuimgUrl = "https://files.catbox.moe/bfwpip.jpg" // ubah menggunakan !setimgmenu
+global.imgUrl = "https://files.catbox.moe/2htsmh.jpg" // ubah menggunakan !setimgbot
+global.menuimgUrl = "https://files.catbox.moe/2htsmh.jpg" // ubah menggunakan !setimgmenu
 
 global.idch = "channel"
 global.namech = "- ZVex-Dev bot -"
